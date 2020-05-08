@@ -1,3 +1,5 @@
 theme: jekyll-theme-cayman
 title: Data Vis for Image Libraries
 
+github:
+is_project_page: false
